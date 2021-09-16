@@ -27,5 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d(TAG,"este es el debug");
 
+        Log.d(TAG,"este es el debug");
+
     }
 }
